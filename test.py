@@ -89,7 +89,6 @@ def main():
     in_c = 1
     out_c = in_c
     model_path = "./models/fuse_Epoch_6.model"
-    # model_path = "./outputs/审稿意见/3750/fuse_Epoch_7.model"
 
     with torch.no_grad():
 
