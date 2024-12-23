@@ -14,8 +14,6 @@ Pytorch >=1.6.0
 
 
 
- Extraction code: mn9k
-
 ## Ciation
 If this work is helpful to you, please cite it as:
 ```
